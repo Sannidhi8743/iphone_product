@@ -1,20 +1,20 @@
-// Custom variables
+
 $primary-color: #007bff;
 $secondary-color: #6c757d;
 $font-stack: 'Arial', sans-serif;
 
-// Global styles
+
 body {
     font-family: $font-stack;
     color: #333;
 }
 
-// Navbar
+
 .navbar {
     padding: 1rem 0;
 }
 
-// Hero Section
+
 .hero-section {
     background: linear-gradient(rgba(0, 0, 0, 0.5), url('image/feat.jpeg') no-repeat center center/cover);
     color: white;
@@ -35,7 +35,7 @@ body {
     }
 }
 
-// Features Section
+
 .features-section {
     h2 {
         font-size: 2.5rem;
@@ -52,7 +52,6 @@ body {
     }
 }
 
-// Specifications Section
 .specs-section {
     h2 {
         font-size: 2.5rem;
@@ -64,7 +63,7 @@ body {
     }
 }
 
-// Buy Now Section
+
 .buy-section {
     h2 {
         font-size: 2.5rem;
@@ -76,7 +75,7 @@ body {
     }
 }
 
-// Footer
+
 .footer {
     padding: 1rem 0;
     background-color: #343a40;
